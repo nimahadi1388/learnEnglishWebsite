@@ -683,6 +683,8 @@ function showItems(list) {
           <h2>${item.nameWord}</h2>
           <h3>${item.meaning}</h3>
           <div class='learn-more'>
+            <h2>phonetic</h2>
+            <p>${item.phonetic}</p>
             <p class='notice'>${item.description}</p>
             <p class='notice'>example: <span>${item.example}</span></p>
           </div>
