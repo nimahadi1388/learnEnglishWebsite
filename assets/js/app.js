@@ -942,12 +942,449 @@ const words = [
         type: "noun",
         example: "We spent our holiday at the seaside.",
     },
+    {
+        id: 105,
+        nameWord: "Let",
+        phonetic: "/let/",
+        meaning: "اجازه دادن",
+        description: "To allow someone to do something.",
+        type: "verb",
+        example: "My parents let me play games.",
+    },
+    {
+        id: 106,
+        nameWord: "Allowed",
+        phonetic: "/əˈlaʊd/",
+        meaning: "مجاز؛ اجازه داده‌شده",
+        description: "Permitted to do something.",
+        type: "adjective",
+        example: "We are allowed to use computers.",
+    },
+    {
+        id: 107,
+        nameWord: "Try",
+        phonetic: "/traɪ/",
+        meaning: "تلاش کردن؛ امتحان کردن",
+        description: "To make an effort to do something.",
+        type: "verb",
+        example: "I will try to learn English.",
+    },
+    {
+        id: 108,
+        nameWord: "Assistant",
+        phonetic: "/əˈsɪstənt/",
+        meaning: "دستیار؛ کمک‌کننده",
+        description: "A person who helps someone.",
+        type: "noun",
+        example: "The teacher has an assistant.",
+    },
+    {
+        id: 109,
+        nameWord: "Gloomy",
+        phonetic: "/ˈɡluːmi/",
+        meaning: "غمگین؛ دلگیر؛ گرفته",
+        description: "Dark, sad, or depressing.",
+        type: "adjective",
+        example: "The weather is gloomy today.",
+    },
+    {
+        id: 110,
+        nameWord: "Prize",
+        phonetic: "/praɪz/",
+        meaning: "جایزه",
+        description: "Something given to someone as a reward for winning.",
+        type: "noun",
+        example: "She won the first prize.",
+    },
+    {
+        id: 111,
+        nameWord: "Cancer",
+        phonetic: "/ˈkænsər/",
+        meaning: "سرطان",
+        description: "A serious disease in which abnormal cells grow in the body.",
+        type: "noun",
+        example: "Cancer is a serious disease.",
+    },
+    {
+        id: 112,
+        nameWord: "Discrimination",
+        phonetic: "/dɪˌskrɪmɪˈneɪʃən/",
+        meaning: "تبعیض",
+        description: "Treating someone unfairly because of who they are.",
+        type: "noun",
+        example: "Everyone should be treated equally without discrimination.",
+    },
+    {
+        id: 113,
+        nameWord: "Embassy",
+        phonetic: "/ˈembəsi/",
+        meaning: "سفارت",
+        description: "The official office of a country in another country.",
+        type: "noun",
+        example: "We visited the French embassy.",
+    },
+    {
+        id: 114,
+        nameWord: "Stranger",
+        phonetic: "/ˈstreɪndʒər/",
+        meaning: "غریبه؛ فرد ناشناس",
+        description: "Someone you don't know.",
+        type: "noun",
+        example: "Never share personal information with a stranger.",
+    },
+    {
+        id: 115,
+        nameWord: "Burglar",
+        phonetic: "/ˈbɜːrɡlər/",
+        meaning: "سارق منزل؛ دزد خانه",
+        description: "A person who illegally enters a building to steal things.",
+        type: "noun",
+        example: "The burglar entered the empty house.",
+    },
+    {
+        id: 116,
+        nameWord: "Frightened",
+        phonetic: "/ˈfraɪtənd/",
+        meaning: "ترسیده؛ وحشت‌زده",
+        description: "Feeling afraid or scared.",
+        type: "adjective",
+        example: "The little boy was frightened.",
+    },
+    {
+        id: 117,
+        nameWord: "Snakes and Ladders",
+        phonetic: "/sneɪks ənd ˈlædərz/",
+        meaning: "بازی مار و پله",
+        description: "A board game played with snakes and ladders.",
+        type: "noun",
+        example: "We played Snakes and Ladders yesterday.",
+    },
+    {
+        id: 118,
+        nameWord: "Glamorous",
+        phonetic: "/ˈɡlæmərəs/",
+        meaning: "خیره‌کننده؛ جذاب؛ پرزرق‌وبرق",
+        description: "Attractive, exciting, and impressive.",
+        type: "adjective",
+        example: "She wore a glamorous dress.",
+    },
+    {
+        id: 119,
+        nameWord: "Stupid",
+        phonetic: "/ˈstuːpɪd/",
+        meaning: "احمق؛ نادان",
+        description: "Showing poor judgment or a lack of understanding.",
+        type: "adjective",
+        example: "That was a stupid mistake.",
+    },
+    {
+        id: 120,
+        nameWord: "Qualification",
+        phonetic: "/ˌkwɑːlɪfɪˈkeɪʃən/",
+        meaning: "صلاحیت؛ مدرک یا شرایط لازم",
+        description: "A skill, experience, or certificate needed for a job.",
+        type: "noun",
+        example: "She has the right qualifications for the job.",
+    },
+    {
+        id: 121,
+        nameWord: "Inventing",
+        phonetic: "/ɪnˈventɪŋ/",
+        meaning: "اختراع کردن",
+        description: "Creating something new for the first time.",
+        type: "verb",
+        example: "He enjoys inventing new things.",
+    },
+    {
+        id: 122,
+        nameWord: "Inventor",
+        phonetic: "/ɪnˈventər/",
+        meaning: "مخترع",
+        description: "A person who creates something new.",
+        type: "noun",
+        example: "The inventor created a useful machine.",
+    },
+    {
+        id: 123,
+        nameWord: "Navy",
+        phonetic: "/ˈneɪvi/",
+        meaning: "نیروی دریایی",
+        description: "The part of a country's military that operates at sea.",
+        type: "noun",
+        example: "He wants to join the navy.",
+    },
+    {
+        id: 124,
+        nameWord: "Bunch",
+        phonetic: "/bʌntʃ/",
+        meaning: "دسته؛ خوشه",
+        description: "A number of things grouped together.",
+        type: "noun",
+        example: "She bought a bunch of flowers.",
+    },
+    {
+        id: 125,
+        nameWord: "A bunch of flowers",
+        phonetic: "/ə bʌntʃ əv ˈflaʊərz/",
+        meaning: "یک دسته گل",
+        description: "A group of flowers held or tied together.",
+        type: "phrase",
+        example: "He gave her a bunch of flowers.",
+    },
+    {
+        id: 126,
+        nameWord: "Celebrate",
+        phonetic: "/ˈseləbreɪt/",
+        meaning: "جشن گرفتن؛ گرامی داشتن",
+        description: "To do something special for an important event.",
+        type: "verb",
+        example: "We celebrate New Year together.",
+    },
+    {
+        id: 127,
+        nameWord: "Groom",
+        phonetic: "/ɡruːm/",
+        meaning: "داماد",
+        description: "A man who is getting married or has just married.",
+        type: "noun",
+        example: "The groom is wearing a black suit.",
+    },
+    {
+        id: 128,
+        nameWord: "Bride",
+        phonetic: "/braɪd/",
+        meaning: "عروس",
+        description: "A woman who is getting married or has just married.",
+        type: "noun",
+        example: "The bride wore a beautiful dress.",
+    },
+    {
+        id: 129,
+        nameWord: "Easter",
+        phonetic: "/ˈiːstər/",
+        meaning: "عید پاک",
+        description: "A Christian holiday celebrating the resurrection of Jesus Christ.",
+        type: "noun",
+        example: "Many people celebrate Easter in spring.",
+    },
+    {
+        id: 130,
+        nameWord: "Acquaintance",
+        phonetic: "/əˈkweɪntəns/",
+        meaning: "آشنا؛ کسی که تا حدی می‌شناسیم",
+        description: "Someone you know, but not very well.",
+        type: "noun",
+        example: "He is an acquaintance, not a close friend.",
+    },
+    {
+        id: 131,
+        nameWord: "Bright",
+        phonetic: "/braɪt/",
+        meaning: "باهوش؛ درخشان؛ روشن",
+        description: "Intelligent or full of light.",
+        type: "adjective",
+        example: "She is a very bright student.",
+    },
+    {
+        id: 132,
+        nameWord: "Leukaemia",
+        phonetic: "/luːˈkiːmiə/",
+        meaning: "سرطان خون",
+        description: "A type of cancer that affects the blood and bone marrow.",
+        type: "noun",
+        example: "Leukaemia is a type of blood cancer.",
+    },
+    {
+        id: 133,
+        nameWord: "Carrot",
+        phonetic: "/ˈkærət/",
+        meaning: "هویج",
+        description: "A long orange vegetable that grows underground.",
+        type: "noun",
+        example: "Rabbits like eating carrots.",
+    },
+    {
+        id: 134,
+        nameWord: "Except",
+        phonetic: "/ɪkˈsept/",
+        meaning: "به‌جز؛ مگر",
+        description: "Not including someone or something.",
+        type: "preposition",
+        example: "Everyone came except Ali.",
+    },
+    {
+        id: 135,
+        nameWord: "Broccoli",
+        phonetic: "/ˈbrɑːkəli/",
+        meaning: "کلم بروکلی",
+        description: "A green vegetable with a thick stem and small flower heads.",
+        type: "noun",
+        example: "I eat broccoli with my lunch.",
+    },
+    {
+        id: 136,
+        nameWord: "Vegetable",
+        phonetic: "/ˈvedʒtəbəl/",
+        meaning: "سبزی؛ صیفی‌جات",
+        description: "A plant or part of a plant eaten as food.",
+        type: "noun",
+        example: "Carrots are healthy vegetables.",
+    },
+    {
+        id: 137,
+        nameWord: "Fussy eater",
+        phonetic: "/ˈfʌsi ˈiːtər/",
+        meaning: "فرد بدغذا؛ کسی که در انتخاب غذا سخت‌گیر است",
+        description: "Someone who does not like many types of food.",
+        type: "noun",
+        example: "My brother is a fussy eater.",
+    },
+    {
+        id: 138,
+        nameWord: "Raw",
+        phonetic: "/rɔː/",
+        meaning: "خام",
+        description: "Not cooked.",
+        type: "adjective",
+        example: "Some people eat raw vegetables.",
+    },
+    {
+        id: 139,
+        nameWord: "Cooked",
+        phonetic: "/kʊkt/",
+        meaning: "پخته",
+        description: "Prepared by heating food.",
+        type: "adjective",
+        example: "I prefer cooked vegetables.",
+    },
+    {
+        id: 140,
+        nameWord: "Can't stand",
+        phonetic: "/kænt stænd/",
+        meaning: "تحمل نکردن؛ اصلاً دوست نداشتن",
+        description: "To strongly dislike something or someone.",
+        type: "phrase",
+        example: "I can't stand eating raw onions.",
+    },
+    {
+        id: 141,
+        nameWord: "Zucchini",
+        phonetic: "/zuːˈkiːni/",
+        meaning: "کدو سبز",
+        description: "A long green vegetable.",
+        type: "noun",
+        example: "She added zucchini to the soup.",
+    },
+    {
+        id: 142,
+        nameWord: "Eggplant",
+        phonetic: "/ˈeɡplænt/",
+        meaning: "بادمجان",
+        description: "A purple vegetable with soft flesh.",
+        type: "noun",
+        example: "We cooked eggplant for dinner.",
+    },
+    {
+        id: 143,
+        nameWord: "Pumpkin",
+        phonetic: "/ˈpʌmpkɪn/",
+        meaning: "کدوحلوایی",
+        description: "A large round orange vegetable.",
+        type: "noun",
+        example: "We made pumpkin soup.",
+    },
+    {
+        id: 144,
+        nameWord: "Celery",
+        phonetic: "/ˈseləri/",
+        meaning: "کرفس",
+        description: "A vegetable with long green stalks.",
+        type: "noun",
+        example: "I put celery in the salad.",
+    },
+    {
+        id: 145,
+        nameWord: "Garlic",
+        phonetic: "/ˈɡɑːrlɪk/",
+        meaning: "سیر",
+        description: "A strong-smelling plant used in cooking.",
+        type: "noun",
+        example: "Garlic gives food a strong flavour.",
+    },
+    {
+        id: 146,
+        nameWord: "Spinach",
+        phonetic: "/ˈspɪnɪtʃ/",
+        meaning: "اسفناج",
+        description: "A leafy green vegetable.",
+        type: "noun",
+        example: "Spinach is rich in nutrients.",
+    },
+    {
+        id: 147,
+        nameWord: "Peas",
+        phonetic: "/piːz/",
+        meaning: "نخودفرنگی",
+        description: "Small round green vegetables.",
+        type: "noun",
+        example: "I like peas with rice.",
+    },
+    {
+        id: 148,
+        nameWord: "On a diet",
+        phonetic: "/ɑːn ə ˈdaɪət/",
+        meaning: "در حال رژیم گرفتن",
+        description: "Eating certain foods or controlling food intake for a health-related reason.",
+        type: "phrase",
+        example: "She is on a diet.",
+    },
+    {
+        id: 149,
+        nameWord: "Bear",
+        phonetic: "/ber/",
+        meaning: "خرس",
+        description: "A large, strong wild animal with thick fur.",
+        type: "noun",
+        example: "We saw a bear at the zoo.",
+    },
+    {
+        id: 150,
+        nameWord: "Sparkling",
+        phonetic: "/ˈspɑːrklɪŋ/",
+        meaning: "گازدار؛ دارای حباب",
+        description: "Containing bubbles of gas.",
+        type: "adjective",
+        example: "Would you like sparkling water?",
+    },
+    {
+        id: 151,
+        nameWord: "Still",
+        phonetic: "/stɪl/",
+        meaning: "بدون گاز",
+        description: "Used to describe water without bubbles or gas.",
+        type: "adjective",
+        example: "I prefer still water.",
+    },
 ];
 const searchFilter = document.getElementById("search-filter");
 const containerBox = document.querySelector("#container-box");
 const filterBox = document.getElementById("filter-box");
 const filterBtn = document.getElementById("filter-btn");
 const typeWord = document.querySelectorAll("#type-word button");
+const windowChangeScroll = document.getElementById("window-scroll")
+
+containerBox.addEventListener('scroll', ToggleScrollWindow)
+windowChangeScroll.addEventListener('click', scrollWindow)
+function ToggleScrollWindow() {
+    if (containerBox.scrollTop >= 100) {
+        windowChangeScroll.classList.add('active')
+    } else {
+        windowChangeScroll.classList.remove('active')
+    }
+}
+function scrollWindow() {
+    containerBox.scrollTop = 0
+}
 function search(e) {
     const val = e.target.value;
     const filteredWords = words.filter((item) => item.nameWord.includes(val));
@@ -966,12 +1403,16 @@ function showItems(list) {
         .map(
             (item) => `
         <div class="box">
+          <i class="ri-arrow-down-fill"></i>
           <p class='id-box'>${item.id}</p>
-          <h2>${item.nameWord}</h2>
+          <div class="word-box">
+            <i class="ri-volume-up-line" onclick="speakWord(${item.id - 1})"></i>
+            <h2>${item.nameWord}</h2>
+          </div>
           <h3>${item.meaning}</h3>
           <div class='learn-more'>
             <h2>phonetic</h2>
-            <p>${item.phonetic}</p>
+             <p>${item.phonetic}</p>
             <p class='notice'>${item.description}</p>
             <p class='notice'>example: <span>${item.example}</span></p>
           </div>
@@ -997,3 +1438,11 @@ typeWord.forEach((btn) => {
         showItems(filterWord);
     });
 });
+function speakWord(id) {
+    const talker = new SpeechSynthesisUtterance(words[id].nameWord)
+
+    const voices = speechSynthesis.getVoices()
+    talker.voice = voices[0]
+    speechSynthesis.speak(talker)
+    console.log('hello');
+}
